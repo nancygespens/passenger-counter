@@ -1,4 +1,28 @@
-# Getting Started
+# ZzzCount
+
+![ZzzCounter_1](https://github.com/user-attachments/assets/16f9f50e-2ef7-4193-b1d3-e37bcaeae5d7)
+
+
+ZzzCount is a simple web-based counter application. It allows users to increment a count, save it, and reset the counter. The saved counts are displayed as a log for easy tracking. The application features a visually pleasing design with customizable backgrounds and colors.
+
+## Description
+
+This project was created as part of the Scrimba Frontend Developer Career Path. It demonstrates fundamental skills in web development, including HTML, CSS, and JavaScript. The counter is interactive and styled to enhance usability.
+
+## Features
+
+- Increment the count with a single button click.
+- Save the current count to a list of previous entries.
+- Reset the counter after saving.
+- User-friendly interface with visually appealing design.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
 Install the dependencies and run the project
 ```
 npm install

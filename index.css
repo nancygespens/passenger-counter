@@ -1,34 +1,40 @@
 body {
-    background-image: url("/darwin-boaventura-drE5y2rQdgg-unsplash.jpg");
-    background-size: cover;
+    background: #AFD4E5;
     font-family: BlinkMacSystemFont, sans-serif;
     font-weight: bold;
     text-align: center;
     color:white;
-    display: flex;
-    justify-content: center;
+    display: column;
+    margin: 50px auto;
 }
 
 h1 {
     margin-top: 30px;
     margin-bottom: 10px;
-    text-shadow: 0 0 3px black;
 }
 
 h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
-    text-shadow: 0 0 3px black;
 }
 
 p {
-    text-shadow: 0 0 3px black;
     margin-bottom: 30px;
 }
+
+#hero {
+    background: #A8CCDD;
+    margin: auto;
+    max-width: 400px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
 #btn {
     margin:0 30px 5px 30px;
 }
+
 button {
     border: none;
     padding-top: 10px;
@@ -37,20 +43,19 @@ button {
     font-weight: bold;
     width: 250px;
     border-radius: 5px;
+    margin: 5px;
 }
 
 #increment-btn {
-    background: #8E3232;
+    background: #E6AEB6;
 }
 
 #save-btn {
-    background: #346341;
+    background: #C7E6AE;
 }
 
-#hero {
-    background: rgba(0, 0, 0, 0.4);
-    max-width: 900px;
-    margin: auto;
-    border-radius: 5px;
-
+#pic {
+    max-width: 600px;
+    height: auto;
+    margin: 50px auto;
 }
