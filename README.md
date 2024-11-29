@@ -2,8 +2,7 @@
 
 [![Demo](https://github.com/user-attachments/assets/16f9f50e-2ef7-4193-b1d3-e37bcaeae5d7)](https://golden-valkyrie-80953f.netlify.app/)
 
-> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd +
-
+> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 
 ZzzCount is a simple web-based counter application. It allows users to increment a count, save it, and reset the counter. The saved counts are displayed as a log for easy tracking. The application features a visually pleasing design with customizable backgrounds and colors.
